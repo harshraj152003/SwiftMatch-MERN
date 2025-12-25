@@ -1,6 +1,10 @@
 ## 🚀 SwiftMatch-MERN
 
-    A high-performance, full-stack networking platform designed for developers to connect, collaborate, and build. Built using the MERN Stack (MongoDB, Express.js, React, Node.js), SwiftMatch features a robust authentication system and an intelligent connection request logic.
+    A high-performance, full-stack networking platform designed for developers to connect,
+    collaborate, and build. Built using the
+    MERN Stack (MongoDB, Express.js, React, Node.js), 
+    wiftMatch features a robust authentication system and an
+    intelligent connection request logic.
 
 ## 🌟 Key Features
 
